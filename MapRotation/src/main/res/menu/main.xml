@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.arcgis.android.samples.maps.maprotation.MainActivity" >
+    <item android:id="@+id/action_0"
+        android:title="@string/action_0"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_90"
+        android:title="@string/action_90"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_180"
+        android:title="@string/action_180"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_270"
+        android:title="@string/action_270"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+</menu>

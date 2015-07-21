@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">地図の回転</string>
+    <string name="user_instruction">Rotate the map using two fingers and a pinch gesture. Single tap to reset.</string>
+    <string name="action_0">0°</string>
+    <string name="action_90">90°</string>
+    <string name="action_180">180°</string>
+    <string name="action_270">270°</string>
+
+</resources>
