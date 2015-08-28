@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">タップの許容値変更</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="defaltValue">タップしたときの許容値を入力してください。</string>
+    <string name="pixel">ピクセル</string>
+    <string name="defautValue">20</string>
+    <string name="magnifier">ロングタップで拡大鏡を表示します。</string>
+
+    <!-- Attributes -->
+    <string name="FACILITY">Facility</string>
+    <string name="DESCRIPTION">Description</string>
+    <string name="QUALITY">Quality</string>
+    <string name="OBSERVED">Observed</string>
+
+</resources>
