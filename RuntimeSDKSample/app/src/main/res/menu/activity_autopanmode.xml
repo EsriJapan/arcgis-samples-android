@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mode_compass"
+            android:title="@string/COMPASS" />
+        <item
+            android:id="@+id/mode_location"
+            android:title="@string/LOCATION" />
+        <item
+            android:id="@+id/mode_navigation"
+            android:title="@string/NAVIGATION" />
+        <item
+            android:id="@+id/mode_off"
+            android:title="@string/OFF" />
+    </group>
+
+</menu>

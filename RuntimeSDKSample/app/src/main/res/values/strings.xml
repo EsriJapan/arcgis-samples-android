@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">サンプル</string>
+    <string name="sample_list">サンプル リスト</string>
+
+    <string name="app_name_1">ベースマップ</string>
+    <string name="StreetMapMenu">道路地図</string>
+    <string name="TopoMenu">地形図</string>
+    <string name="Hybrid">衛星画像</string>
+    <string name="GrayMenu">キャンバス</string>
+    <string name="OceanMenu">海洋図</string>
+
+    <string name="app_name_2">位置情報表示モード</string>
+    <string name="COMPASS">コンパス</string>
+    <string name="LOCATION">ロケーション</string>
+    <string name="NAVIGATION">ナビゲーション</string>
+    <string name="OFF">オフ</string>
+
+
+</resources>
