@@ -419,7 +419,7 @@ public class MainActivity extends AppCompatActivity {
                     List<SyncLayerResult> syncResults = (List<SyncLayerResult>) syncJob.getResult();
                     if (syncResults != null) {
                         // 同期結果を確認して、例えばユーザに通知する処理を作成します
-                        Toast.makeText(getApplicationContext(), "sync end★" , Toast.LENGTH_SHORT).show();
+                        Toast.makeText(getApplicationContext(), "sync end" , Toast.LENGTH_SHORT).show();
                     }
                 }
             }
