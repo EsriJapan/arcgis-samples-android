@@ -17,8 +17,8 @@ ArcGIS Runtime SDK for Android のサンプル集です。
 
 * [ArcGIS Runtime SDK for Android(ESRIジャパン Web サイト内)](http://www.esrij.com/products/arcgis-runtime-sdk-for-android/)
 * [GeoNet 開発者コミュニティ サイト](https://geonet.esri.com/groups/devcom-jp)
-* [リファレンス](https://developers.arcgis.com/android/api-reference/reference/packages.html)
-* [サンプル コード](https://developers.arcgis.com/android/sample-code/)
+* [リファレンス](https://developers.arcgis.com/android/latest/api-reference/reference/packages.html)
+* [サンプル コード](https://developers.arcgis.com/android/latest/sample-code/sample-code.htm)
 
 ## ライセンス
 Copyright 2015 Esri Japan Corporation.
