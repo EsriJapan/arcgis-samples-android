@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">Show Callout</string>
-    <string name="sandiego_tpk">/ArcGIS/samples/OfflineGeocoding/basemap.tpk</string>
+    <string name="app_name">OfflineEditPoint</string>
     <string name="local_geodatabase">/ArcGIS/samples/OfflineSample/orglayer.geodatabase</string>
     <string name="org_agolfFeatureLayer">http://services7.arcgis.com/903opF9LxIC4unCH/arcgis/rest/services/yokohamaTripPoint/FeatureServer/</string>
 </resources>
