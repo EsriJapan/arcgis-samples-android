@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Offline Map</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="local_geodatabase">/ArcGIS/samples/OfflineSample/geodatabase/orglayer.geodatabase</string>
+    <string name="org_agolfFeatureLayer">http://services7.arcgis.com/903opF9LxIC4unCH/arcgis/rest/services/yokohamaTripPoint/FeatureServer</string>
+    <string name="org_emptyLayer">https://services7.arcgis.com/903opF9LxIC4unCH/arcgis/rest/services/emptylayer/FeatureServer/0</string>
+    <string name="local_raster">/ArcGISArcGIS/samples/OfflineSample/tif/tokyoPict.tif</string>
+    <string name="local_tpk">/ArcGISArcGIS/samples/OfflineSample/basemap.tpk</string>
+    <string name="local_vtpk">/ArcGISArcGIS/samples/OfflineSample/test_road.vtpk</string>
+
+
+    <string-array name="local_files">
+        <item>/ArcGIS/samples/OfflineSample/basemap.tpk</item>
+    </string-array>
+
+    <string-array name="damage_types">
+        <item>Destroyed</item>
+        <item>Major</item>
+        <item>Minor</item>
+        <item>Affected</item>
+        <item>Inaccessible</item>
+    </string-array>
+</resources>

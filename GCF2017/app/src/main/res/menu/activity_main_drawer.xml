@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="all">
+        <item
+            android:id="@+id/FLayer"
+            android:title="Feature Layer / geodatabase"
+            app:actionLayout="@layout/widget_checked"
+            android:layout_gravity="start"
+            android:checked="true"/>
+        <item
+            android:id="@+id/tpk"
+            android:title="Tile Package"
+            app:actionLayout="@layout/widget_check" />
+        <item
+            android:id="@+id/vtpk"
+            android:title="Vector Tile Package"
+            app:actionLayout="@layout/widget_check" />
+        <item
+            android:id="@+id/RLayer"
+            android:title="Raster Layer"
+            app:actionLayout="@layout/widget_check" />
+    </group>
+
+    <item android:title="Edit Mode">
+        <menu>
+            <item
+                android:id="@+id/editSwitch"
+                android:title="Read Only / Edit "
+                app:actionLayout="@layout/widget_switch"
+                android:enabled="true"
+                android:checked="false"/>
+
+        </menu>
+    </item>
+
+</menu>
