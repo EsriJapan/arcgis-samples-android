@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BookmarkOSS</string>
+
+    <string-array name="baseballplace_titles">
+        <item>東京ドーム</item>
+        <item>阪神甲子園球場</item>
+        <item>ナゴヤドーム</item>
+        <item>横浜スタジアム</item>
+        <item>広島市民球場</item>
+        <item>明治神宮野球場</item>
+    </string-array>
+
+</resources>
