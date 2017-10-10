@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // MapView の作成
+         // MapView の作成
         mMapView = findViewById(R.id.mapView) as MapView
 
         // Basemap の作成
