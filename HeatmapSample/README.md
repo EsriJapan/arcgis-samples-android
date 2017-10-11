@@ -3,8 +3,7 @@
 このサンプルは、ヒートマップの配色をカスタマイズして、任意のフィーチャ レイヤーにレンダリングして表現するサンプルです。
 レンダリング要素であるJSONは、そのままお使いいただけます。
 
- <img src="http://apps.esrij.com/arcgis-dev/github/img/android-sample-Images/rainbow-heatmap.png" width="600px" >
-
+ <img src="http://apps.esrij.com/arcgis-dev/github/img/android-sample-Images/rainbow-heatmap.jpg" width="600px" >
 
 ### 使用する主なクラス
  * FeatureLayer
