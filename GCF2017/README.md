@@ -1,5 +1,7 @@
 ## GCF2017
 
+ <img src="http://apps.esrij.com/arcgis-dev/github/img/android-sample-Images/offlineappGCF2017.jpg" width="600px" >
+
 このサンプルは、2017年5月に開催されたGISコミュニティフォーラムでデモンストレーションを行ったAndroidアプリです。
 Android端末でプロットしたポイントデータを、サーバー(ArcGIS Server / ArcGIS Online)のフィーチャ レイヤーと同期することができます。
 あらかじめ端末に保存した以下のデータを読み込んで表示することができます。
