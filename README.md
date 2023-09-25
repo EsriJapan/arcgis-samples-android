@@ -4,7 +4,6 @@
 > 
 > ArcGIS Runtime SDK for Android 100.x のサポート終了についての詳細は、「[ArcGIS Runtime SDK の今後のバージョンアップの計画についてのお知らせ](https://community.esri.com/t5/a/a/ta-p/1174047)」をご参照ください。 
 > 
-
 > Android アプリの開発には、最新バージョンの [ArcGIS Maps SDK for Kotlin バージョン 200.x](https://www.esrij.com/products/arcgis-maps-sdk-for-kotlin/) をご利用ください。 [機能別のサンプルコード](https://developers.arcgis.com/kotlin/sample-code/) もご利用いただけます。
  
 ArcGIS Runtime SDK for Android のサンプル集です。
